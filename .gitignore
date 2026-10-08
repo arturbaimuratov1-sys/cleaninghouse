@@ -1,0 +1,6 @@
+# Local-only artifacts, never commit
+screenshots/
+.playwright-mcp/
+*.out
+Thumbs.db
+.DS_Store
